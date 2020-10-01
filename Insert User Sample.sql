@@ -1,0 +1,2 @@
+﻿INSERT INTO [dbo].[User] ([dbo].[RoleID], [dbo].[Username], [dbo].[Email], [dbo].[Name], [dbo].[Password], [dbo].[Gender], [dbo].[PhoneNumber], [dbo].[Address], [dbo].[Banned])
+VALUES (1, 'graciela.angeline', 'graciela.angeline@binus.ac.id', 'Graciela Angeline', 'grace123', 2, 123456789, 'Street Serpong, Tangerang', 0);
